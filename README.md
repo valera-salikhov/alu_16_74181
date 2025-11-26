@@ -12,3 +12,14 @@
 5. `cd obj_dir`
 6. `make -f V__0374181.mk V__0374181`  (maybe names of mk file will be different)
 7. Execute the V__0374181.exe
+
+
+## List of tested operations:
+- ADD
+- SUB
+- A ADD A
+- MINUS 1
+- XOR
+- AND
+- OR
+- ~(A & B)
